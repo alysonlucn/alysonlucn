@@ -13,14 +13,14 @@ Resolvendo problemas através de código e construindo soluções escaláveis.
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=alysonlucn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alysonlucn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=alysonlucn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alysonlucn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alysonlucn&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alysonlucn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
