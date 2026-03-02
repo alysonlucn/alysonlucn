@@ -12,21 +12,16 @@ Resolvendo problemas através de código e construindo soluções escaláveis.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=alysonlucn&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alysonlucn&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=alysonlucn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alysonlucn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alysonlucn&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alysonlucn&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -39,3 +34,5 @@ Resolvendo problemas através de código e construindo soluções escaláveis.
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
